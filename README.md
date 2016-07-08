@@ -2,5 +2,5 @@
 
 Gracias por visitar mi repositorio
 
-[Visita la página de mi empresa] (www.pegazomaq.com)
+[Visita la página de mi empresa] (http://www.pegazomaq.com)
 
